@@ -1,7 +1,4 @@
-#heading 1
-this is a new line
-telangana
-##header2
-this is me
-this is the new line
-hii new line
+#new header
+this is newly updated
+##new subheader
+new subline
